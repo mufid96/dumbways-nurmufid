@@ -1,0 +1,3 @@
+HTTP adalah protokol pengambilan resource atau berbagai file di web memanfaatkan protokol client-server yang permintaannya dilakukan oleh penerima (client) contohnya browser web untuk kemudian ditampilkan secara lengkap.
+
+Cara kerja dasar HTTP adalah menerapkan set aturan di sisi client dan server. Untuk kebutuhan menghubungkan client dan server tersebut digunakan protokol jaringan yaitu TCP/IP dan UDP. Client melakukan permintaan (HTTP request) setelah terhubung ke server melalui TCP/IP atau UDP, server menerima permintaan tersebut dan memberikan respon (HTTP response) sehingga client bisa menampilkan respon dari server.

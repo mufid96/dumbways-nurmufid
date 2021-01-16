@@ -1,0 +1,1 @@
+perbedaan antara continuous deployment dan continuous delivery adalah pada tahap produksi dimana continuous delivery proses deploy bisa dilakukan secara manual sesuai kebutuhan bisnis sedangkan continuous deployment proses deploy dilakukan secara otomatis tanpa intervensi manusia sehingga pengembang bisa fokus pada proses pengembangan.

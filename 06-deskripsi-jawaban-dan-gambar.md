@@ -1,0 +1,2 @@
+Reverse proxy adalah titik jaringan yang berada di depan server bertugas menerima permintaan (HTTP request) client untuk difilter sesuai konfigurasi yang ditentukan dan jika sesuai maka diteruskan ke server.
+Biasanya semua permintaan dari client akan langsung ke server, dan server akan mengirim respon langsung ke client. Dengan reverse proxy, semua permintaan dari client akan menuju ke reverse proxy dulu, dan reverse proxy akan mengirim permintaan dan menerima respon dari server. Reverse proxy kemudian mengirim respon yang sesuai ke client.
